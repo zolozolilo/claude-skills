@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "limit_tokens": 300000,
+  "warn_at": 250000,
+  "warn_step": 10000,
+  "deny_at": 290000,
+  "tail_bytes": 300000,
+  "read_max_lines": 1500,
+  "repeat_limit": 3
+}
